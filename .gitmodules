@@ -1,0 +1,3 @@
+[submodule "client/external/DIA"]
+	path = client/external/DIA
+	url = https://github.com/RudjiGames/DIA
